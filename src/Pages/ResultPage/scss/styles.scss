@@ -1,0 +1,28 @@
+.result-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    .stats-container  {
+        p{
+            margin: 50px 0;
+        }        
+       
+      }
+      .problem-heading  {
+       
+        li
+        {
+            display: flex;
+            justify-content: space-between;
+            font-size: 52px;
+            text-align: center;
+            list-style-type: none;
+        }
+        
+      }
+  }
+  
+ 
+  
+ 
+  
